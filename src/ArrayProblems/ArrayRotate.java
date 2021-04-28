@@ -1,4 +1,4 @@
-package Problems;
+package ArrayProblems;
 public class ArrayRotate {
     void leftRotate(int arr[], int d, int n)
     {
